@@ -25,11 +25,11 @@
 
         // Settings
         "SETTINGS_SYSTEM": "System options",
-        "SETTINGS_SYSTEM_DESC": "Settings for the overall system.",
+        "SETTINGS_SYSTEM_DESC": "Settings para sa buong system.",
         "SETTINGS_GAME": "Gameplay options",
         "SETTINGS_GAME_DESC": "Settings to play the drums.",
         "SETTINGS_EXIT": "Exit",
-        "SETTINGS_EXIT_DESC": "Save the settings and exit from CONFIGURATION menu.",
+        "SETTINGS_EXIT_DESC": "I-save ang settings at umalis sa CONFIGURATION menu.",
 
         "SETTINGS_MENU_RETURN": "<< Return to Menu",
         "SETTINGS_MENU_RETURN_DESC": "Return to left menu.",
@@ -51,15 +51,15 @@
         "SETTINGS_SYSTEM_RELOADSONGCACHE": "Reload Songs (Hard Reload)",
         "SETTINGS_SYSTEM_RELOADSONGCACHE_DESC": "Burahin ang song cache at \nI-reload ang song folder mula sa simula.",
         "SETTINGS_SYSTEM_HIDEDANTOWER": "Hide Dan/Tower",
-        "SETTINGS_SYSTEM_HIDEDANTOWER_DESC": "Hide Dan and Tower charts\nin the Taiko Mode menu.\nNote: Reload songs to make\n     this setting take effect.",
+        "SETTINGS_SYSTEM_HIDEDANTOWER_DESC": "Itago ang Dan at Tower charts\nsa Taiko Mode menu.\nNote: I-Reload ang songs upang\n     makita ang pagbabago.",
 
         // Settings - System - Graphics
         "SETTINGS_SYSTEM_FULLSCREEN": "Fullscreen Mode",
-        "SETTINGS_SYSTEM_FULLSCREEN_DESC": "Toggle between fullscreen and windowed mode.",
+        "SETTINGS_SYSTEM_FULLSCREEN_DESC": "Pumili sa pagitan nang Fullscreen o Windowed Mode.",
         "SETTINGS_SYSTEM_VSYNC": "VSync Mode",
         "SETTINGS_SYSTEM_VSYNC_DESC": "Toggle whether VSync is used.\nTurning it on will cap the FPS at 60,\nwhich will make the note scroll appear smoother\nbut increase input delay.\nTurning it off will uncap the fps,\nwhich will decrease input delay\nbut make the note scroll appear more unstable.",
         "SETTINGS_SYSTEM_GRAPHICSAPI": "Graphics API",
-        "SETTINGS_SYSTEM_GRAPHICSAPI_DESC": "Drawing Method:\nSelect from either OpenGL,\nDirectX11, Vulkan, or Metal.\nOpenGL is slow, but compatible & stable.\nDirectX11 is fast and stable, but only\nworks on Windows.\nVulkan works fastest on Linux.\nMetal only works on MacOS.\n\nThis will take effect after game reboot.",
+        "SETTINGS_SYSTEM_GRAPHICSAPI_DESC": "Drawing Method:\nPumili mula sa OpenGL,\nDirectX11, Vulkan, o Metal.\nAng OpenGL ay mabagal, ngunit mas compatible at stable.\nAng DirectX11 ay mabilis at stable, pero\ngumagana lang sa Windows.\nAng Vulkan ay pinakamabilis sa Linus.\nAng Metal ay gumagana lang sa MacOS\n\nMakikita ang pagbabago pagkatapos nang Reboot.",
         "SETTINGS_SYSTEM_TEXTUREASYNC": "ASync Texture Loading",
         "SETTINGS_SYSTEM_TEXTUREASYNC_DESC": "Texture Loading Type:\nFreeze on startup disappears\nTurn this option off if some textures turn black\nThis change will take effect after restarting OpenTaiko\n",
 
