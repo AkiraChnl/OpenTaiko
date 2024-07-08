@@ -43,13 +43,13 @@
 
         // Settings - System
         "SETTINGS_SYSTEM_LANGUAGE": "System language",
-        "SETTINGS_SYSTEM_LANGUAGE_DESC": "Baguhin ang ipinapakitang wika\ningame at sa loob ng mga menu.c,
+        "SETTINGS_SYSTEM_LANGUAGE_DESC": "Baguhin ang ipinapakitang wika\ningame at sa loob ng mga menu.",
         "SETTINGS_SYSTEM_PLAYERCOUNT": "Player Count",
-        "SETTINGS_SYSTEM_PLAYERCOUNT_DESC": "Select how many players you want to play with.\nUp to 5 players can be active at once.",
+        "SETTINGS_SYSTEM_PLAYERCOUNT_DESC": "Piliin kung gaano karami ang maglalaro,\nhangang 5 ang pwede maglaro.",
         "SETTINGS_SYSTEM_RELOADSONG": "Reload Songs",
-        "SETTINGS_SYSTEM_RELOADSONG_DESC": "Reload the song folder.",
+        "SETTINGS_SYSTEM_RELOADSONG_DESC": "I-Reload ang song folder.",
         "SETTINGS_SYSTEM_RELOADSONGCACHE": "Reload Songs (Hard Reload)",
-        "SETTINGS_SYSTEM_RELOADSONGCACHE_DESC": "Clear the existing cache and\nreload the song folder from scratch.",
+        "SETTINGS_SYSTEM_RELOADSONGCACHE_DESC": "Burahin ang song cache at \nI-reload ang song folder mula sa simula.",
         "SETTINGS_SYSTEM_HIDEDANTOWER": "Hide Dan/Tower",
         "SETTINGS_SYSTEM_HIDEDANTOWER_DESC": "Hide Dan and Tower charts\nin the Taiko Mode menu.\nNote: Reload songs to make\n     this setting take effect.",
 
@@ -67,10 +67,10 @@
         "SETTINGS_SYSTEM_BGMOVIE_DESC": "Toggle whether background videos are used.\nIf this is enabled and a video is missing from a folder,\nthe background will appear blacked out.",
         "SETTINGS_SYSTEM_BGMOVIEDISPLAY": "Video Playback Display Mode",
         "SETTINGS_SYSTEM_BGMOVIEDISPLAY_DESC": "Change how videos are displayed\nin the background.",
-        "SETTINGS_SYSTEM_BGMOVIEDISPLAY_NONE": "None",
-        "SETTINGS_SYSTEM_BGMOVIEDISPLAY_FULL": "Full Display",
-        "SETTINGS_SYSTEM_BGMOVIEDISPLAY_MINI": "Mini Display",
-        "SETTINGS_SYSTEM_BGMOVIEDISPLAY_BOTH": "Both",
+        "SETTINGS_SYSTEM_BGMOVIEDISPLAY_NONE": "Wala",
+        "SETTINGS_SYSTEM_BGMOVIEDISPLAY_FULL": "Buong Display",
+        "SETTINGS_SYSTEM_BGMOVIEDISPLAY_MINI": "Maliit na Display",
+        "SETTINGS_SYSTEM_BGMOVIEDISPLAY_BOTH": "Parehas",
         "SETTINGS_SYSTEM_LANEOPACITY": "Lane Background Opacity",
         "SETTINGS_SYSTEM_LANEOPACITY_DESC": "This controls the lane background opacity\nwhile videos are playing.\n\n0 = completely transparent,\n255 = no transparency",
 
